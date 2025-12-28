@@ -1,1 +1,0 @@
-A modern and responsive portfolio website built to showcase my skills, projects, and experience as a Backend Developer. This portfolio highlights my technical expertise, real-world projects, and provides an easy way for clients or recruiters to get in touch.
